@@ -3,3 +3,4 @@ css
 bootstrap
 gunicorn
 flask
+wheel
